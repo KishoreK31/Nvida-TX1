@@ -1,4 +1,4 @@
-# Important Links
+# Resources
 
 https://developer.nvidia.com/embedded/twodaystoademo
 
